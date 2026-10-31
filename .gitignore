@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Profiling output
+*.out
+*.prof
+
+# Logo reference images (third-party inspiration, not project assets)
+LOGO/logo_references/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
